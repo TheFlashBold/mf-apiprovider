@@ -1,13 +1,16 @@
 {
-  "name": "mf-apiprovider",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {}
+    "name": "mf-apiprovider",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "mf-webserver": "git+https://github.com/TheFlashBold/mf-webserver.git",
+        "mf-lib": "git+https://github.com/TheFlashBold/mf-lib.git"
+    }
 }
