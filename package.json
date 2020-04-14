@@ -12,5 +12,8 @@
     "dependencies": {
         "mf-webserver": "git+https://github.com/TheFlashBold/mf-webserver.git",
         "mf-lib": "git+https://github.com/TheFlashBold/mf-lib.git"
+    },
+    "devDependencies": {
+        "axios": "^0.19.2"
     }
 }
